@@ -1,0 +1,17 @@
+# Ignore build directories
+/build/
+
+# Ignore temporary files
+*.tmp
+*.log
+*.swp
+
+# VS code
+.vscode
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
